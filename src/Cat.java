@@ -1,3 +1,7 @@
+/* CSCI306 C11A - DrawPlay
+ * Authors: Tyler Horiuchi & Kathleen Whalen
+ */
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
@@ -45,6 +49,6 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("YEET", catX, catY+HEAD_DIMENSION+10);	// changed from "meow"
 	}
 }

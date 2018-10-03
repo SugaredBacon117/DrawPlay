@@ -1,3 +1,7 @@
+/* CSCI306 C11A - DrawPlay
+ * Authors: Tyler Horiuchi & Kathleen Whalen
+ */
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
